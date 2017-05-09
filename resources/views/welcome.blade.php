@@ -83,11 +83,9 @@
                 </div>
 
                 <div class="links">
-<<<<<<< HEAD
-                    <a href="https://laravel.com/docs">Documentationeeeeeeeeeeeee</a>
-=======
-                    <a href="https://laravel.com/docs">Documentation</a>
->>>>>>> parent of 0e02ead... primo change
+
+
+                    <a href="https://laravel.com/docs">Documentationoooo</a>
                     <a href="https://laracasts.com">Laracasts</a>
                     <a href="https://laravel-news.com">News</a>
                     <a href="https://forge.laravel.com">Forge</a>
